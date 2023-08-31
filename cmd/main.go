@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"waitlist/internal/serv"
+	"internal/serv"
 
 	"go.uber.org/zap"
 )

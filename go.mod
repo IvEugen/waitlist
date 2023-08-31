@@ -1,4 +1,4 @@
-module waitlist
+module github.com/IvEugen/waitlist
 
 go 1.21.0
 
